@@ -1,0 +1,9 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\bin\Debug\Monsters.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\bin\Debug\Monsters.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\bin\Debug\Monsters.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\bin\Debug\Monsters.xml
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\obj\Debug\Monsters.vbproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\obj\Debug\Monsters.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\obj\Debug\Monsters.xml
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\Monsters\Monsters\obj\Debug\Monsters.pdb
